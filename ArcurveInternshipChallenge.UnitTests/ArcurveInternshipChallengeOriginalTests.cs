@@ -14,7 +14,7 @@ namespace ArcurveInternshipChallenge.UnitTests
         public void GetMonthRangeInUTCTestNow()
         {
             //Setup
-            InternshipChallenge a = new InternshipChallenge();
+            
             DateTime testADate = DateTime.Now;
             DateTime testUTCMonthStart = new DateTime();
             DateTime testUTCNextMonthStart = new DateTime();
@@ -31,7 +31,7 @@ namespace ArcurveInternshipChallenge.UnitTests
         public void GetMonthRangeInUTCTestJanuary()
         {
             //Setup
-            InternshipChallenge a = new InternshipChallenge();
+            
             DateTime testADate = new DateTime(2015, 1, 15);
             DateTime testUTCMonthStart = new DateTime();
             DateTime testUTCNextMonthStart = new DateTime();
@@ -48,7 +48,7 @@ namespace ArcurveInternshipChallenge.UnitTests
         public void GetMonthRangeInUTCTestFebruary()
         {
             //Setup
-            InternshipChallenge a = new InternshipChallenge();
+            
             DateTime testADate = new DateTime(2015, 2, 14);
             DateTime testUTCMonthStart = new DateTime();
             DateTime testUTCNextMonthStart = new DateTime();
@@ -65,7 +65,7 @@ namespace ArcurveInternshipChallenge.UnitTests
         public void GetMonthRangeInUTCTestMarch()
         {
             //Setup
-            InternshipChallenge a = new InternshipChallenge();
+            
             DateTime testADate = new DateTime(2015, 3, 13);
             DateTime testUTCMonthStart = new DateTime();
             DateTime testUTCNextMonthStart = new DateTime();
@@ -82,7 +82,7 @@ namespace ArcurveInternshipChallenge.UnitTests
         public void GetMonthRangeInUTCTestApril()
         {
             //Setup
-            InternshipChallenge a = new InternshipChallenge();
+            
             DateTime testADate = new DateTime(2015, 4, 12);
             DateTime testUTCMonthStart = new DateTime();
             DateTime testUTCNextMonthStart = new DateTime();
@@ -99,7 +99,7 @@ namespace ArcurveInternshipChallenge.UnitTests
         public void GetMonthRangeInUTCTestMay()
         {
             //Setup
-            InternshipChallenge a = new InternshipChallenge();
+            
             DateTime testADate = new DateTime(2015, 5, 18);
             DateTime testUTCMonthStart = new DateTime();
             DateTime testUTCNextMonthStart = new DateTime();
@@ -116,7 +116,7 @@ namespace ArcurveInternshipChallenge.UnitTests
         public void GetMonthRangeInUTCTestJune()
         {
             //Setup
-            InternshipChallenge a = new InternshipChallenge();
+            
             DateTime testADate = new DateTime(2015, 6, 30);
             DateTime testUTCMonthStart = new DateTime();
             DateTime testUTCNextMonthStart = new DateTime();
@@ -133,7 +133,7 @@ namespace ArcurveInternshipChallenge.UnitTests
         public void GetMonthRangeInUTCTestJuly()
         {
             //Setup
-            InternshipChallenge a = new InternshipChallenge();
+            
             DateTime testADate = new DateTime(2015, 7, 7);
             DateTime testUTCMonthStart = new DateTime();
             DateTime testUTCNextMonthStart = new DateTime();
@@ -150,7 +150,7 @@ namespace ArcurveInternshipChallenge.UnitTests
         public void GetMonthRangeInUTCTestAugust()
         {
             //Setup
-            InternshipChallenge a = new InternshipChallenge();
+            
             DateTime testADate = new DateTime(2015, 8, 16);
             DateTime testUTCMonthStart = new DateTime();
             DateTime testUTCNextMonthStart = new DateTime();
@@ -167,7 +167,7 @@ namespace ArcurveInternshipChallenge.UnitTests
         public void GetMonthRangeInUTCTestSeptember()
         {
             //Setup
-            InternshipChallenge a = new InternshipChallenge();
+            
             DateTime testADate = new DateTime(2015, 9, 25);
             DateTime testUTCMonthStart = new DateTime();
             DateTime testUTCNextMonthStart = new DateTime();
@@ -184,7 +184,7 @@ namespace ArcurveInternshipChallenge.UnitTests
         public void GetMonthRangeInUTCTestOctober()
         {
             //Setup
-            InternshipChallenge a = new InternshipChallenge();
+            
             DateTime testADate = new DateTime(2015, 10, 31);
             DateTime testUTCMonthStart = new DateTime();
             DateTime testUTCNextMonthStart = new DateTime();
@@ -201,7 +201,7 @@ namespace ArcurveInternshipChallenge.UnitTests
         public void GetMonthRangeInUTCTestNovember()
         {
             //Setup
-            InternshipChallenge a = new InternshipChallenge();
+            
             DateTime testADate = new DateTime(2015, 11, 28);
             DateTime testUTCMonthStart = new DateTime();
             DateTime testUTCNextMonthStart = new DateTime();
@@ -218,7 +218,7 @@ namespace ArcurveInternshipChallenge.UnitTests
         public void GetMonthRangeInUTCTestDecember()
         {
             //Setup
-            InternshipChallenge a = new InternshipChallenge();
+            
             DateTime testADate = new DateTime(2015, 12, 25);
             DateTime testUTCMonthStart = new DateTime();
             DateTime testUTCNextMonthStart = new DateTime();
